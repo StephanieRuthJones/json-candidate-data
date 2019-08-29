@@ -1,23 +1,25 @@
-[
-    {
-        "id": 1,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Elizabeth_Warren%2C_official_portrait%2C_114th_Congress.jpg",
-        "name": "Elizabeth Warren",
-        "bio": "Elizabeth Ann Warren (née Herring; born June 22, 1949) is an American politician and former academic serving as the senior United States Senator from Massachusetts since 2013. She was formerly a law school professor specializing in bankruptcy law. A member of the Democratic Party and a progressive, Warren has focused on consumer protection, economic opportunity, and the social safety net while in the Senate.",
-        "votes": 3
-    },
-    {
-        "id": 2,
-        "image": "https://cdnph.upi.com/svc/sv/upi/7921566848803/2019/1/aabc08f27dc92b5c8283b8bffc35c577/United-Electrical-Workers-union-endorses-Bernie-Sanders.jpg",
-        "name": "Bernie Sanders",
-        "bio": "Bernard Sanders (born September 8, 1941) is an American politician who has served as the junior United States Senator from Vermont since 2007. Vermont's at-large Congressman from 1991 to 2007, he is the longest serving independent in U.S. congressional history and a member of the Democratic caucus. Sanders ran unsuccessfully for the 2016 Democratic nomination for president and is running again in 2020.",
-        "votes": 5
-    },
-    {
-        "id": 3,
-        "image": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/harriskamala_073119upi_lead.jpg?itok=saCnvSVs",
-        "name": "Kamala Harris",
-        "bio": "Kamala Devi Harris (/ˈkɑːmələ/ KAH-mə-lə;[1] born October 20, 1964) is an American lawyer and politician serving as the junior United States Senator from California since 2017. A member of the Democratic Party, she previously served as the 27th District Attorney of San Francisco from 2004 to 2011 and 32nd Attorney General of California from 2011 until 2017. She is a candidate for the Democratic nomination for President of the United States in the 2020 election.",
-        "votes": 10
-    }
-]
+{
+    "candidates": [
+        {
+            "id": 1,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Elizabeth_Warren%2C_official_portrait%2C_114th_Congress.jpg",
+            "name": "Elizabeth Warren",
+            "bio": "Elizabeth Ann Warren (née Herring; born June 22, 1949) is an American politician and former academic serving as the senior United States Senator from Massachusetts since 2013. She was formerly a law school professor specializing in bankruptcy law. A member of the Democratic Party and a progressive, Warren has focused on consumer protection, economic opportunity, and the social safety net while in the Senate.",
+            "votes": 3
+        },
+        {
+            "id": 2,
+            "image": "https://cdnph.upi.com/svc/sv/upi/7921566848803/2019/1/aabc08f27dc92b5c8283b8bffc35c577/United-Electrical-Workers-union-endorses-Bernie-Sanders.jpg",
+            "name": "Bernie Sanders",
+            "bio": "Bernard Sanders (born September 8, 1941) is an American politician who has served as the junior United States Senator from Vermont since 2007. Vermont's at-large Congressman from 1991 to 2007, he is the longest serving independent in U.S. congressional history and a member of the Democratic caucus. Sanders ran unsuccessfully for the 2016 Democratic nomination for president and is running again in 2020.",
+            "votes": 5
+        },
+        {
+            "id": 3,
+            "image": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/harriskamala_073119upi_lead.jpg?itok=saCnvSVs",
+            "name": "Kamala Harris",
+            "bio": "Kamala Devi Harris (/ˈkɑːmələ/ KAH-mə-lə;[1] born October 20, 1964) is an American lawyer and politician serving as the junior United States Senator from California since 2017. A member of the Democratic Party, she previously served as the 27th District Attorney of San Francisco from 2004 to 2011 and 32nd Attorney General of California from 2011 until 2017. She is a candidate for the Democratic nomination for President of the United States in the 2020 election.",
+            "votes": 10
+        }
+    ]
+}
